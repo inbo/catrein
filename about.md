@@ -6,13 +6,14 @@ title: ""
 # Cameras as research instruments
 The assessment of animal populations is a long‐standing challenge in wildlife ecology which requires sufficient and reliable data. However, the collection of data in the field can be daunting and time consuming. Recent technological advances on the hardware have led to the adoption of **automated camera traps** as research instruments. Camera traps, equipped with motion and infrared sensors that get triggered by motion, can provide a reliable and cost-effective tool for the collection of long term monitoring data. Besides the fact that these remotely activated cameras are a time-efficient tool for data collection, it is also an un-invasive technique causing low levels of disturbance as no animals need to be captured or killed.
 
-![](https://github.com/milotictanja/catrein/blob/master/images/reconynxHC600-camera-small.png "camera trap")
+![](./images/catrein_reconynxHC600_camera.png "camera trap")
 
 # Piles of images and data management
-Camera traps generate **high quantities of pictures** that may or may not include the species you are interested in. Various types of information can be derived from camera trap images such as animal `species`, animal `counts`, their `sex`, `age class` and `behaviour`, and, in case animals are individually tagged, even their name or `tag code`. Also, each picture is taken at a particular location (yielding `x`, `y`, `z`-coordinates) and `time`. It gets even more complex in case pictures are part of a series of pictures of one event, such as a herd of deer that passes by.\
+Camera traps generate **high quantities of pictures** that may or may not include the species you are interested in. Various types of information can be derived from camera trap images such as animal `species`, animal `counts`, their `sex`, `age class` and `behaviour`, and, in case animals are individually tagged, even their name or `tag code`. Also, each picture is taken at a particular location (yielding `x`, `y`, `z`-coordinates) and `time`. It gets even more complex in case pictures are part of a series of pictures of one event, such as a herd of deer that passes by.
+
 Another issue is that most wildlife researchers are mainly interested in a **selected group of animal species**. Whereas a carnivore specialists meticulously filter out those pictures containing carnivorous species, bird experts could find a valuable source of information in the discarded pictures containing birds. In order to mitigate ecological problems such as a reduced biodiversity and changing species compositions due to climate change and the introduction of invasive alien species, it is of utmost importance that conservation scientists *collaborate* and *share* as much information as possible with the scientific community. 
 
-![](https://github.com/milotictanja/catrein/blob/master/images/IMG_1222.JPG "wild boar")
+![](./images/catrein_wildboar_photo.png "wild boar")
 
 # LifeWatch
 As part of the Flemish contribution to the **[LifeWatch](http://www.lifewatch.be) infrastructure**, the [Research Institute for Nature and Forest (INBO)](http://www.inbo.be) launched a camera trap project in 2017. The aim of the project is two-fold: 
