@@ -7,7 +7,7 @@ title: ""
 
 ## LIFE+ project OZON 
 
-[Project Sonian forest](http://www.sonianforest.be/lifeozon/project/natura-2000-life/life-in-the-sonian-forest/), monitoring the use of wildlife crossings, tunnals and tree bridges in the Sonian Forest (Belgium)
+[Project Sonian forest](http://www.sonianforest.be/lifeozon/project/natura-2000-life/life-in-the-sonian-forest/)
 
 Busy traffic arteries cut through the Sonian Forest and fragment the forest into isolated patches:
 the Brussels Ring Road, the E411, the railway between Brussels and Luxembourg, the Terhulpsesteenweg, the Duboislaan, the Tervuursesteenweg… They all prevent the forest inhabitants from travelling between the different areas. About fifty animals are killed each year by the busy traffic in the forest. This was revealed by monitoring that took place in the context of the _Dood doet Leven_ project.
