@@ -25,11 +25,6 @@ In collaboration with Hasselt University, we installed 45 cameras in the [LTER-s
 
 [Agouti](http://cameratraplab.org/agouti) is an online platform for camera trap project management and the annotation of images created by the [CameraTrapLab](http://cameratraplab.org) at Wageningen University. The system is already operational for annotating images and managing camera trap projects, but we are cooperating with the team at Wageningen University for the further development of additional modules such as a data pipeline to `publish camera trap images` as open data and to archive the annotated pictures, the `automated recognition` of people and animals, and `citizen science` through crowdsourcing.
 
-# Partners
-* [Research Institute for Nature and Forest (INBO)](http://www.inbo.be/en)
-* [Hasselt University, Centre for Environmental Sciences](https://www.uhasselt.be/CMK-en)
-* [Wageningen University, CameraTrapLab](http://cameratraplab.org/) 
-
 # Contact
 * [LifeWatch team INBO](mailto:team_lifewatch@inbo.be)
 * [Jim Casaer](mailto:jim.casaer@inbo.be) 
