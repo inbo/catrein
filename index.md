@@ -6,7 +6,7 @@ Welcome on the CATREIN page
 
 The Catrein project wants to facilitate and enhance wildlife research using camera traps in Belgium.
 
-For this purpose investments are done both in hardware (> 60 Reconyx Hyperfire HC 600 cameras) and in software. The [Agouti] (www.agouti.eu) software allows users to manage surveys, annotate images, archive images and data and produce standard reports using metadata standards. 
+For this purpose investments are done both in hardware (> 60 Reconyx Hyperfire HC 600 cameras) and in software. The [Agouti](www.agouti.eu) software allows users to manage surveys, annotate images, archive images and data and produce standard reports using metadata standards. 
 
 ![](images/overview_catrein_project.png)
 
