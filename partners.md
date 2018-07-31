@@ -7,7 +7,7 @@ title: ""
 
 * [Research Institute for Nature and Forest (INBO)](http://www.inbo.be/en)
 
-<img src="https://www.inbo.be/sites/all/themes/bootstrap_inbo/img/inbo/logo_en.png" class="align-left" alt="" width="300">
+<img src="https://www.inbo.be/sites/all/themes/bootstrap_inbo/img/inbo/logo_nl.png" class="align-left" alt="" width="300">
 
 * [Wageningen University, CameraTrapLab](http://cameratraplab.org/) 
 
