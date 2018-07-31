@@ -16,3 +16,5 @@ Next, by the integration of [Agouti](www.agouti.eu) with the [Zooniverse](https:
 
 Providing the ability to publishing the collected data as open data allows to share the results of camera trap research in Belgium with other researchers abroad. 
 
+Interested to collaborate or to use Agouti for annotation of camera trap images yourself, feel free to contact [Jim Casaer](mailto:jim.casaer@inbo.be).
+
