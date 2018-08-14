@@ -4,6 +4,9 @@ title:
 
 Welcome on the CATREIN page
 
+LATEST NEWS : Nice new GIF of one month camera trapping in Brussels (Life+OZON project) on facebook : https://www.facebook.com/foretdesoignes.zonienwoud/videos/276499446481631 !!
+
+
 The Catrein project wants to facilitate and enhance wildlife research using camera traps in Belgium.
 
 For this purpose investments are done both in hardware (> 60 Reconyx Hyperfire HC 600 cameras) and in software. The [Agouti](http://www.agouti.eu) software allows users to manage surveys, annotate images, archive images and data and produce standard reports using metadata standards. 
