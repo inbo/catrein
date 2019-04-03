@@ -2,9 +2,7 @@
 title:
 ---
 
-Welcome on the CATREIN page
-
-The Catrein project wants to facilitate and enhance wildlife research using camera traps in Belgium.
+Welcome to the CATREIN project website. CATREIN wants to facilitate and enhance wildlife research using camera traps in Belgium.
 
 For this purpose investments are done both in hardware (> 60 Reconyx Hyperfire HC 600 cameras) and in software. The [Agouti](http://www.agouti.eu) software allows users to manage surveys, annotate images, archive images and data and produce standard reports using metadata standards. 
 
@@ -17,4 +15,3 @@ Next, by the integration of [Agouti](http://www.agouti.eu) with the [Zooniverse]
 Providing the ability to publishing the collected data as open data allows to share the results of camera trap research in Belgium with other researchers abroad. 
 
 Interested to collaborate or to use Agouti for annotation of camera trap images yourself, feel free to contact [Jim Casaer](mailto:jim.casaer@inbo.be).
-
